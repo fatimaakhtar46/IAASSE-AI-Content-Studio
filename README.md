@@ -42,7 +42,7 @@ The goal of this project is to create a simple AI-powered workflow that helps th
 ## Project Links
 
 * **Live Project:** [https://iaasse-content-engine--fatimaakhtar46.replit.app/]
-* **GitHub Repository:** [Your GitHub Repository Link]
+* **GitHub Repository:** [https://github.com/fatimaakhtar46/IAASSE-AI-Content-Studio]
 * **User Testing Form:** [https://forms.gle/HQn8tHZnFT2Nerfy5]
 
 ## Technologies
